@@ -3,7 +3,7 @@ All my ML projects in 1 place
 
 ## Easy21
 This is the Easy21 assignment for David Silver's reinforcement learning course. <br />
-Different RL algorithms play a version of blackjack. <br />
+Different RL algorithms play blackjack. <br />
 
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html 
 

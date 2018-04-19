@@ -10,6 +10,7 @@ http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 ## Equation Solver
 A program that, given input variables and an output variable, and a set of equations (containing the four elementary arithmetic operators, and exponents), solves for the output variable in terms of the input variables, as long as it is possible, with optimal efficiency using dynamic programming. Treats the variables as nodes and the equations as describing groups of edges, and builds/traverses the graph greedily in depth-first order.
+Written in Python.
 
 ## Coursera_ML
 Assignments from weeks 1-8 of Andrew Ng's 2011 Coursera ML [course](https://www.coursera.org/learn/machine-learning).

@@ -6,4 +6,4 @@ This is the Easy21 assignment for David Silver's reinforcement learning course: 
 
 ## Coursera_ML
 Assignments from weeks 1-8 of Andrew Ng's 2011 Coursera ML [course](https://www.coursera.org/learn/machine-learning).
-Moved on to study Deep Learning and Reinforcement Learning.
+Moved on to study deep learning and reinforcement learning.

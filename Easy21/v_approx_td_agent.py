@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from linear_model import LinApproximator
 
+# Sarsa Lambda with value approximation
 
 def e_greedy(q, state, epsilon = 0.05):
     x_0 = get_feature_vec(state, 0)
@@ -45,6 +46,7 @@ def get_feature_vec(state, action):
             x[activated] = 1
     return x
 
+
 random.seed()
 visited_count = {}
 av_count = {}
@@ -57,7 +59,6 @@ q = LinApproximator()
 
 eps = 0
 while eps < 100000:
-
 
     state = (random.randint(1, 10), random.randint(1, 10))
     action = e_greedy(q, state, epsilon)
@@ -95,7 +96,7 @@ while eps < 100000:
             x_next = get_feature_vec(next_state, next_action)
             q_next = q(x_next)
 
-        #calc td target
+        # calc td target
         alpha = 1 / (av_count[sa])
         target = reward + q_next - q(x)
 

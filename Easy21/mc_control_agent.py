@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from a_control_util import e_greedy, visualize
 
+# Monte-Carlo Control
 
 random.seed()
 

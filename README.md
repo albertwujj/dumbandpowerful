@@ -1,7 +1,7 @@
 # dumbandpowerful
 All my ML projects in 1 place
 
-## Easy21
+## Easy21 - COMPLETE
 This is the Easy21 assignment for David Silver's reinforcement learning course. <br />
 Different RL algorithms play blackjack with negative-value cards. <br />
 

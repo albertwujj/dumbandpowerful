@@ -1,5 +1,5 @@
 # dumbandpowerful
-All my ML projects in 1 place
+All my AI/ML projects in 1 place
 
 ## Easy21
 This is the Easy21 assignment for David Silver's reinforcement learning course. <br />

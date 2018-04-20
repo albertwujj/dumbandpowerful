@@ -3,7 +3,7 @@ All my ML projects in 1 place
 
 ## Easy21
 This is the Easy21 assignment for David Silver's reinforcement learning course. <br />
-Different RL algorithms (MC Control, Sarsa(\lambda), Sarsa(\lambda) w/ value approximation) play blackjack with negative-value cards. <br />
+Different RL algorithms (MC Control, Sarsa lambda, Sarsa lambda w/ value approximation) play blackjack with negative-value cards. <br />
 Written in Python.
 
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html 
